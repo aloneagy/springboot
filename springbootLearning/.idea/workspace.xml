@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b280c716-a330-4129-8aef-6c18cdf23b85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/commons-logging-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/druid-1.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/spring-beans-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/spring-context-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/spring-core-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/spring-expression-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/spring-jdbc-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/spring-orm-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Lib/spring-tx-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/TestJdbcTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/datasourece.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/dp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shortLink/src/shortlink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freshman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../freshman/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fx/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fx/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java" beforeDir="false" afterPath="$PROJECT_DIR$/../java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/out/production/studyclassroom/WS2_1/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/out/production/studyclassroom/WS2_1/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/WS2_1/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/src/WS2_1/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/WS2_2/Worksheet2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/src/WS2_2/Worksheet2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/predictive/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/src/predictive/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/predictive/ListDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/src/predictive/ListDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/predictive/ListDictionaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/src/predictive/ListDictionaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/predictive/PredictivePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/src/predictive/PredictivePrototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/predictive/Sigs2WordsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/src/predictive/Sigs2WordsList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/predictive/Sigs2WordsProto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/src/predictive/Sigs2WordsProto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/predictive/WordSig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/src/predictive/WordSig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/predictive/Words2SigProto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studyclassroom/src/predictive/Words2SigProto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studyclassroom/src/question.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springbootLearning.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.3_1/libexec" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="12" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="164" />
+    <option name="y" value="23" />
+    <option name="width" value="1194" />
+    <option name="height" value="798" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springbootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b280c716-a330-4129-8aef-6c18cdf23b85" name="Default Changelist" comment="" />
+      <created>1591016639041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591016639041</updated>
+      <workItem from="1591016640355" duration="1067000" />
+      <workItem from="1591017761156" duration="95000" />
+      <workItem from="1591018009933" duration="13000" />
+      <workItem from="1591019147098" duration="102000" />
+      <workItem from="1591019281056" duration="4000" />
+      <workItem from="1591019313450" duration="8000" />
+      <workItem from="1591019341280" duration="150000" />
+      <workItem from="1591019494141" duration="1000" />
+      <workItem from="1591019610932" duration="148000" />
+      <workItem from="1591019810205" duration="516000" />
+      <workItem from="1591020353384" duration="14000" />
+      <workItem from="1591020369208" duration="18000" />
+      <workItem from="1591020403354" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2214000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="164" y="23" width="1194" height="798" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3046875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.33089313" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootLearning.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springbootLearning</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
